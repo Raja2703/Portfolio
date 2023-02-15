@@ -990,8 +990,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   /* SIDEBAR  */
   
   .avatar-img {
-    border-radius: 16px;
-    width:80px ;
+    border-radius: 10px;
+    width:100px ;
   }
 
   /* ABOUT */ 
