@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
+    "@swc/core": "^1.11.24",
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
